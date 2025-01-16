@@ -15,8 +15,6 @@ function fullName(firstName, lastName) {
     return {firstName, lastName}
 }
 
-console.log(fullName("Mattia", "Del Monaco"))
-
 // EXPORT
 // function "fullname"
 
