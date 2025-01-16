@@ -15,6 +15,10 @@ function fullName(firstName, lastName) {
     return {firstName, lastName}
 }
 
+// EVENTS 
+
+console.log(fullName("Mattia", "Del Monaco"))
+
 // EXPORT
 // function "fullname"
 

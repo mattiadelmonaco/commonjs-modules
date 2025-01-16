@@ -16,6 +16,10 @@ function hobbies (hobbyOne, hobbyTwo, hobbyThree) {
     return [hobbyOne, hobbyTwo, hobbyThree]
 }
 
+// EVENTS
+
+console.log(hobbies("Swim", "Gaming", "Drink"))
+
 // EXPORT
 // function "hobbies"
 
